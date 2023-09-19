@@ -11,7 +11,7 @@ Teste de performance realizado em uma aplicação de voos aéreas.
   4 Step: Execute o teste clicando no botão verde (start);
 
 ## Relatorio
-O relatorio está anexado no repositorio em um arquivo .doc com informações completas e detalhadas sobre os testes.
+O relatorio está anexado no repositorio em um arquivo .doc com informações completas e detalhadas sobre os testes. Foram utilizados alguns relatorios nativos da ferramenta para melhor visualização e plugins para facilitar a configuração da rampa.
 
 
 
